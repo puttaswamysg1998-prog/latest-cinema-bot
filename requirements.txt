@@ -1,4 +1,4 @@
-git+https://github.com/pyrogram/pyrogram
+pyrogram==2.0.106
 tgcrypto==1.2.5
 requests
 aiohttp
